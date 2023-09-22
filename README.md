@@ -1,2 +1,2 @@
 # WeatherAppTeam4
-Hakathon to create the weather app
+Hackathon to create the weather app
